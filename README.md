@@ -5,6 +5,8 @@ A real-time stock tracker terminal built with **React** — featuring live watch
 ![StockPulse Terminal](https://img.shields.io/badge/version-2.0-00f5a0?style=flat-square) ![React](https://img.shields.io/badge/React-18.2-61dafb?style=flat-square&logo=react) 
 
 ---
+<img width="1915" height="909" alt="image" src="https://github.com/user-attachments/assets/c0ab62f3-4158-4fbc-9085-a67bac09aed2" />
+---
 
 ## ✨ Features
 

@@ -1,4 +1,4 @@
-# StockPulse Terminal
+# StockPulse 
 <img width="1915" height="867" alt="image" src="https://github.com/user-attachments/assets/28ac125a-e435-4141-b7a3-8e62817daf21" />
 
 

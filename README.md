@@ -13,8 +13,7 @@ A full-featured stock price tracker built with React.
 | Node.js     | 18+      | https://nodejs.org                   |
 | npm         | 9+       | Comes with Node                      |
 
-No API key is needed for the default AI-simulated mode.
-To use **real live data**, see the "Real Data" section below.
+
 
 ---
 

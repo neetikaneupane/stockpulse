@@ -2,7 +2,7 @@
 
 A real-time stock tracker terminal built with **React** — featuring live watchlists, candlestick charts, price alerts, fundamentals, and a sleek dark terminal UI.
 
-![StockPulse Terminal](https://img.shields.io/badge/version-2.0-00f5a0?style=flat-square) ![React](https://img.shields.io/badge/React-18.2-61dafb?style=flat-square&logo=react) ![License](https://img.shields.io/badge/license-MIT-blue?style=flat-square)
+![StockPulse Terminal](https://img.shields.io/badge/version-2.0-00f5a0?style=flat-square) ![React](https://img.shields.io/badge/React-18.2-61dafb?style=flat-square&logo=react) 
 
 ---
 
@@ -247,4 +247,4 @@ Supports **8,000+ US stocks**, ETFs, crypto (BTC-USD), indices (^GSPC), and inte
 
 - [yfinance](https://github.com/ranaroussi/yfinance) — Yahoo Finance data
 - [FastAPI](https://fastapi.tiangolo.com) — Python backend framework
-- [Anthropic Claude](https://anthropic.com) — AI-powered simulated data mode
+
